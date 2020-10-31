@@ -1,0 +1,2010 @@
+fileFormatVersion: 2
+guid: 5cf1b4629c7cb104e98d369448084abd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PackSea01_0
+    21300002: PackSea01_1
+    21300004: PackSea01_2
+    21300006: PackSea01_3
+    21300008: PackSea01_4
+    21300010: PackSea01_5
+    21300012: PackSea01_6
+    21300014: PackSea01_7
+    21300016: PackSea01_8
+    21300018: PackSea01_9
+    21300020: PackSea01_10
+    21300022: PackSea01_11
+    21300024: PackSea01_12
+    21300026: PackSea01_13
+    21300028: PackSea01_14
+    21300030: PackSea01_15
+    21300032: PackSea01_16
+    21300034: PackSea01_17
+    21300036: PackSea01_18
+    21300038: PackSea01_19
+    21300040: PackSea01_20
+    21300042: PackSea01_21
+    21300044: PackSea01_22
+    21300046: PackSea01_23
+    21300048: PackSea01_24
+    21300050: PackSea01_25
+    21300052: PackSea01_26
+    21300054: PackSea01_27
+    21300056: PackSea01_28
+    21300058: PackSea01_29
+    21300060: PackSea01_30
+    21300062: PackSea01_31
+    21300064: PackSea01_32
+    21300066: PackSea01_33
+    21300068: PackSea01_34
+    21300070: PackSea01_35
+    21300072: PackSea01_36
+    21300074: PackSea01_37
+    21300076: PackSea01_38
+    21300078: PackSea01_39
+    21300080: PackSea01_40
+    21300082: PackSea01_41
+    21300084: PackSea01_42
+    21300086: PackSea01_43
+    21300088: PackSea01_44
+    21300090: PackSea01_45
+    21300092: PackSea01_46
+    21300094: PackSea01_47
+    21300096: PackSea01_48
+    21300098: PackSea01_49
+    21300100: PackSea01_50
+    21300102: PackSea01_51
+    21300104: PackSea01_52
+    21300106: PackSea01_53
+    21300108: PackSea01_54
+    21300110: PackSea01_55
+    21300112: PackSea01_56
+    21300114: PackSea01_57
+    21300116: PackSea01_58
+    21300118: PackSea01_59
+    21300120: PackSea01_60
+    21300122: PackSea01_61
+    21300124: PackSea01_62
+    21300126: PackSea01_63
+    21300128: PackSea01_64
+    21300130: PackSea01_65
+    21300132: PackSea01_66
+    21300134: PackSea01_67
+    21300136: PackSea01_68
+    21300138: PackSea01_69
+    21300140: PackSea01_70
+    21300142: PackSea01_71
+    21300144: PackSea01_72
+    21300146: PackSea01_73
+    21300148: PackSea01_74
+    21300150: PackSea01_75
+    21300152: PackSea01_76
+    21300154: PackSea01_77
+    21300156: PackSea01_78
+    21300158: PackSea01_79
+    21300160: PackSea01_80
+    21300162: PackSea01_81
+    21300164: PackSea01_82
+    21300166: PackSea01_83
+    21300168: PackSea01_84
+    21300170: PackSea01_85
+    21300172: PackSea01_86
+    21300174: PackSea01_87
+    21300176: PackSea01_88
+    21300178: PackSea01_89
+    21300180: PackSea01_90
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PackSea01_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 860
+        width: 91
+        height: 109
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047964ac89a62a4499b57fb76a4e4df3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 864
+        width: 96
+        height: 109
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540679e9cc450e547bc9dc29ae49d29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 864
+        width: 103
+        height: 109
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4096659f6f82564caad2a032252294a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 864
+        width: 90
+        height: 129
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39006a9c80f2dc243899e5070ce2230e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 864
+        width: 146
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ddbb69bb15f2c46b6f0355cf6159f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_5
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 864
+        width: 91
+        height: 129
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a16345a6eb1ab43adf18d7a6fa98f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 864
+        width: 103
+        height: 117
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f547d07ce87750449b5487c58b42221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 809
+        width: 97
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f63b81215aa843905cbd91a600f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 815
+        width: 61
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70ce0715bd50d4b8639acfb6ca6d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_9
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 781
+        width: 89
+        height: 76
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab5a7e2c6eb694f824f940c576cd4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 798
+        width: 81
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4a0b89dc470446b6630cc5a40f759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 747
+        width: 26
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725d51e0fef8f834795f4c8099205975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 788
+        width: 11
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ae6f8dda7edb48ae20164a7e3185b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 749
+        width: 73
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39cd7dc2103ac24f878c457f051058a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 723
+        width: 77
+        height: 76
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec170477642ea944f9935a81174d2730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 722
+        width: 67
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5807d010ae2f4e449c984e0585c387f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 755
+        width: 73
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62dc462124543d409a3f7e8ed90c425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 742
+        width: 36
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca111f18ed71442adef39ad0698a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 769
+        width: 10
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e87161262002f4a95010727fe215e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 734
+        width: 73
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b26a94577dde04fa6bcb5708fe073c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 742
+        width: 55
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f7345471bbd5546a4afbd53fbb87e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 766
+        width: 11
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52cef18e1e5e340bca97be88cb4847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_22
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 763
+        width: 19
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dfa5ddfe63f1b43af0720e5a4b3019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 751
+        width: 11
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0babc6a0c7a67b4cb988569715933a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 754
+        width: 11
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307518fe2867b940bf1c77211d28d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 753
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e536b87089acc46b853084fbf2a6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 739
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710ad07b534da34ea66e143f8fa9291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 677
+        width: 55
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30e588caeb1614ea9573273a5b2c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 736
+        width: 11
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adcda03a57d5b34fb5be5019661a46d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_29
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 691
+        width: 66
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97264be4c7628e8468405d4185f7cdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_30
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 709
+        width: 66
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d02858db94a544ba07726ee9a39367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 680
+        width: 29
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b83e8ce7d4ff47b3432c247bff922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 675
+        width: 62
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefcf46cadd77454fa13a7af15afb7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 683
+        width: 19
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059a6b9af66ee343a49789b548dc832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 711
+        width: 15
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93bf711a462684fa228707415470f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 658
+        width: 63
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38620c6258dc8b543b8ec546cb0eff50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_36
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 658
+        width: 63
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53be93a9b66644d8245fa272a30cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 682
+        width: 19
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b2eeb0db3eac44bdfabaf06e286e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_38
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 671
+        width: 66
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f55a0bef52f5c449f4c533a259b6b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 683
+        width: 66
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c155338f10a35b4dbb34bec22bbc2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 560
+        width: 19
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ff71752ee20548ac16b3f5a29670a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 658
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec07159a65445fc4eab1621dff756aa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 642
+        width: 62
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8be675277a08045b3eb651f76d9e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 627
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5936c68f5d3cac41b12dbd6ea28fbce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 616
+        width: 89
+        height: 59
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951bf0c2a0969d3468f7656c2657d1f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_45
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 565
+        width: 61
+        height: 85
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e64ca80b7107841ac78d9ac8821e15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_46
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 575
+        width: 70
+        height: 79
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d7f6544bb4c448a5681649ed568a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_47
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 636
+        width: 37
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947bc55ee13aaa4b87d00f8f7becd30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 616
+        width: 6
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfccfd4c15c5f479b69579353b3610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 616
+        width: 6
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87ef2b3d8ab14d4b9e3acf643f86974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_50
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 622
+        width: 8
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcdd6e6af97f324d9ae8f3de519005c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 589
+        width: 42
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59280c6adb7ef2f4fa66084adf427827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_52
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 612
+        width: 6
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12552a0a0f7a22e4285ab570e97f401a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 592
+        width: 85
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4949eef3a3a94943a8ad59f6db07d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 124
+        height: 112
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6143abb32bd444449a0fc618cbb8406f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 428
+        width: 108
+        height: 109
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a25528e194ff429c77d4de25a3812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 428
+        width: 97
+        height: 112
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428427674f564c42b09993eb47483e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_57
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 428
+        width: 134
+        height: 111
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f097dad9ac3e4a8777f0be9980ef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_58
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 428
+        width: 91
+        height: 136
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fbd7fdbe52f27479b5ddbfddad2ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_59
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 428
+        width: 137
+        height: 131
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b96e390e04f9d1449bf7724e5915f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_60
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 428
+        width: 98
+        height: 110
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d5b08ca3426ed46a1379735e2743a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_61
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 428
+        width: 101
+        height: 144
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec6c78421846247bc620660a240104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 389
+        width: 59
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9980b87be2f0da4a8d9db8676056dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_63
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 368
+        width: 39
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc61d2c98332cf419ad75a756956cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_64
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 340
+        width: 100
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a8d690e51e2d4890458b704a10dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 352
+        width: 66
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf3cf7603acfe4ea95e3825ef350d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 327
+        width: 36
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e379077d6677dc4ca67b764dd63ff7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 327
+        width: 46
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12742a5ee87e994b923350caf48eb8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 369
+        width: 59
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb898e3094bb9ef4586707ebeff6f564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 323
+        width: 51
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2de57f58ce5e4cbcec22e971e6c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 321
+        width: 39
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95e554a2acb3e4b8f259a1104427df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 349
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c2db0d9bad0648b24d8d677488cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_72
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 314
+        width: 81
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4395fc4e84e6edb43a15abf75c9ee159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_73
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 304
+        width: 69
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e9176519eab44bbd7bf3ee0c92d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_74
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 301
+        width: 66
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4080036c19855947af44fe7d5c6e295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 321
+        width: 25
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09266f12dd668894b866891024a2d078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 269
+        width: 66
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164bca6616bdffa4e8aba011087771d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_77
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 279
+        width: 32
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40184d9391ab97947955bdf79833c7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_78
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 279
+        width: 19
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04e855811e5ed34abec2bbd2518209f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 276
+        width: 26
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad50f7dd280fc40a893bc652b72afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 255
+        width: 62
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bac60905c8e554aa2dd1e003e74bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 278
+        width: 39
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06c28c1a08f2a40be082c87a886cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 252
+        width: 66
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f6c939a3cf88342baf2268143f07ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_83
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 243
+        width: 63
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf260854ce6fa44965e2176264670f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_84
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 295
+        width: 83
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c58d6df954a845b20e96ad74bd6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_85
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 291
+        width: 6
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5d7aef6d4c4e4f94f84c6e29feaaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_86
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 250
+        width: 65
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5364492858a43e04fb5d00ebadbb8f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_87
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 234
+        width: 6
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b509d7a81ffc4bb2002c209ceed1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_88
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 863
+        width: 164
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b503670a4da64d9727d096608f9e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_89
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 773
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2227f28fd8b703442af15b65072acdc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackSea01_90
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 243
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb63d945acd6814aa7e51cce1fecd3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
