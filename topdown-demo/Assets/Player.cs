@@ -25,10 +25,13 @@ public class Player : MonoBehaviour
 
 
     private Vector2 moveAmount;
-  // determines game's start 
+    private SceneTransitions sceneTransitions;
+
+    // determines game's start 
     private void Start() {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        sceneTransitions = FindObjectOfType<SceneTransitions>();
     }
 
     //called every frame
@@ -66,7 +69,8 @@ public class Player : MonoBehaviour
         {
             Instantiate(deathEffect, transform.position, Quaternion.identity);
             Destroy(gameObject);
-            
+            sceneTransitions.LoadScene("Lose");
+
         }
     }
 

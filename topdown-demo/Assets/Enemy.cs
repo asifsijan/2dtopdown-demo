@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour
     public GameObject deathEffect;
 
     // Start is called before the first frame update
-    void Start()
+    public virtual void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         }
@@ -31,7 +31,7 @@ public class Enemy : MonoBehaviour
         
     }
 
-    public void TakeDamage(int damageAmount)
+    public virtual void TakeDamage(int damageAmount)
     {
         health -= damageAmount;
         if (health <= 0)

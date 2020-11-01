@@ -168,9 +168,9 @@ GameObject:
   m_Component:
   - component: {fileID: 6974079257012499949}
   - component: {fileID: 6974079257012499950}
-  - component: {fileID: 6974079257012499951}
   - component: {fileID: 6974079257012499944}
   - component: {fileID: 6974079257012499948}
+  - component: {fileID: 114631481460578808}
   m_Layer: 9
   m_Name: Boss
   m_TagString: Enemy
@@ -215,27 +215,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &6974079257012499951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6974079257012499945}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24188a20c951a4641b3914fe8b910c3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 10
-  player: {fileID: 0}
-  speed: 6
-  timeBetweenAttacks: 0.3
-  damage: 1
-  deathEffect: {fileID: 7497316930429888653, guid: 1d1c03c01e0a70c46af011d38d0a00b8,
-    type: 3}
-  stopDistance: 3
-  attackSpeed: 3
 --- !u!61 &6974079257012499944
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -283,6 +262,27 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &114631481460578808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6974079257012499945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fec2003123bbba4ca0803ca1c2e1090, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 11
+  player: {fileID: 0}
+  speed: 12.01
+  timeBetweenAttacks: 1
+  damage: 4
+  deathEffect: {fileID: 7497316930429888653, guid: 1d1c03c01e0a70c46af011d38d0a00b8,
+    type: 3}
+  stopDistance: 10
+  attackSpeed: 4
 --- !u!1 &6974079257224503527
 GameObject:
   m_ObjectHideFlags: 0
